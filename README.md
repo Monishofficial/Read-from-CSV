@@ -1,7 +1,8 @@
 # Date:
 # Ex.No: 10 Read-from-CSV
 
-## AIM: To write a python program for reading the csv file content
+## AIM:
+To write a python program for reading the csv file content
 
 ## ALGORITHM:
 ### Step 1: 
@@ -16,8 +17,8 @@ Check your system's maximum column with the pd.options.display.max_column statem
 Increase the maximum number of rows to display the entire DataFrame.
 
 ## PROGRAM:
-Developed by : MONISH N
-Register Number: 212223240097
+##### Developed by : MONISH N
+##### Register Number: 212223240097
 ```
 import pandas as pd
 df=pd.read_csv("NBA.csv")
