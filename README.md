@@ -1,5 +1,5 @@
 # Date:
-# Ex.No: 10 Read-from-CSV
+# Ex.No: 12 Read-from-CSV
 
 ## AIM:
 To write a python program for reading the csv file content
